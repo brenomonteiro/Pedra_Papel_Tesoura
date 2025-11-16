@@ -1,0 +1,15 @@
+C:\Users\Breno\Desktop\pjd\ead_pedra\Pedra_Papel_Tesoura\pedraPapelTesoura\bin\Debug\net8.0\pedraPapelTesoura.exe
+C:\Users\Breno\Desktop\pjd\ead_pedra\Pedra_Papel_Tesoura\pedraPapelTesoura\bin\Debug\net8.0\pedraPapelTesoura.deps.json
+C:\Users\Breno\Desktop\pjd\ead_pedra\Pedra_Papel_Tesoura\pedraPapelTesoura\bin\Debug\net8.0\pedraPapelTesoura.runtimeconfig.json
+C:\Users\Breno\Desktop\pjd\ead_pedra\Pedra_Papel_Tesoura\pedraPapelTesoura\bin\Debug\net8.0\pedraPapelTesoura.dll
+C:\Users\Breno\Desktop\pjd\ead_pedra\Pedra_Papel_Tesoura\pedraPapelTesoura\bin\Debug\net8.0\pedraPapelTesoura.pdb
+C:\Users\Breno\Desktop\pjd\ead_pedra\Pedra_Papel_Tesoura\pedraPapelTesoura\obj\Debug\net8.0\pedraPapelTesoura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Breno\Desktop\pjd\ead_pedra\Pedra_Papel_Tesoura\pedraPapelTesoura\obj\Debug\net8.0\pedraPapelTesoura.AssemblyInfoInputs.cache
+C:\Users\Breno\Desktop\pjd\ead_pedra\Pedra_Papel_Tesoura\pedraPapelTesoura\obj\Debug\net8.0\pedraPapelTesoura.AssemblyInfo.cs
+C:\Users\Breno\Desktop\pjd\ead_pedra\Pedra_Papel_Tesoura\pedraPapelTesoura\obj\Debug\net8.0\pedraPapelTesoura.csproj.CoreCompileInputs.cache
+C:\Users\Breno\Desktop\pjd\ead_pedra\Pedra_Papel_Tesoura\pedraPapelTesoura\obj\Debug\net8.0\pedraPapelTesoura.sourcelink.json
+C:\Users\Breno\Desktop\pjd\ead_pedra\Pedra_Papel_Tesoura\pedraPapelTesoura\obj\Debug\net8.0\pedraPapelTesoura.dll
+C:\Users\Breno\Desktop\pjd\ead_pedra\Pedra_Papel_Tesoura\pedraPapelTesoura\obj\Debug\net8.0\refint\pedraPapelTesoura.dll
+C:\Users\Breno\Desktop\pjd\ead_pedra\Pedra_Papel_Tesoura\pedraPapelTesoura\obj\Debug\net8.0\pedraPapelTesoura.pdb
+C:\Users\Breno\Desktop\pjd\ead_pedra\Pedra_Papel_Tesoura\pedraPapelTesoura\obj\Debug\net8.0\pedraPapelTesoura.genruntimeconfig.cache
+C:\Users\Breno\Desktop\pjd\ead_pedra\Pedra_Papel_Tesoura\pedraPapelTesoura\obj\Debug\net8.0\ref\pedraPapelTesoura.dll
